@@ -1,0 +1,25 @@
+body{
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    margin: 10px;
+}
+
+input{
+    background-color: #b0d0fa;
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+button{
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    font-weight: bold;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

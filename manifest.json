@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "My Leads",
+    "version": "1.0",
+    "description": "A simple Chrome extension to manage leads",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon":  "icon.jpg"
+    }
+}

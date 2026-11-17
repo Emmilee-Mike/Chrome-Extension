@@ -20,18 +20,23 @@ button{
     color: white;
     padding: 10px 20px;
     font-weight: bold;
-    border: none;
+    border: 1px solid #4CAF50;
     border-radius: 4px;
     cursor: pointer;
+}
+#delete-btn{
+    background-color: white;
+    color: #4CAF50
 }
 
 ul{
     list-style-type: none;
-    margin-top: 5px;
+    margin-top: 20px;
     padding-left: 0;
 }
 
 li, a{
     color: #4CAF50;
     margin-left: 0px;
+    margin-top: 5px;
 }
